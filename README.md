@@ -1,18 +1,12 @@
-### Hi there 👋
+Olá! Eu sou a Vanusal ✌
 
-<!--
+🌱 atualmente estou aprendendo JavaScript
+
+https://github.com/vanusal/vanusal/edit/main/README.md
 **vanusal/vanusal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- Olá! eu sou a Vanusal 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 😊
 ✌
