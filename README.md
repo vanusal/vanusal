@@ -1,6 +1,6 @@
 Olá! Eu sou a Vanusal ✌
 
-🌱 atualmente estou estudando HTML/CSS/JAVASCRIPT
+🌱 atualmente estou estudando HTML/CSS/JAVASCRIPT/SQL/POWER BI
 
 📌Recife-PE
 
