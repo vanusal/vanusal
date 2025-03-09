@@ -1,6 +1,7 @@
 ## Olá rede, eu sou a Vanusa.
 Atualmente estou em transição de carreira para a área de Análise e Desenvolvimento de Sistemas. Ao longo da minha trajetória profissional, desenvolvi habilidades analíticas, pensamento crítico e capacidade de resolução de problemas, que agora estou aplicando no mundo da tecnologia.
 Sou apaixonada pelos desafios da área, estou sempre buscando aprender e aberta para novas oportunidades.
+
 Linkedin: https://www.linkedin.com/in/vanusa-lopes-8505a4230/
 ## Tecnologias que estou estudando: 👩🏽‍💻
 
