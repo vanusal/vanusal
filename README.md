@@ -1,10 +1,8 @@
-### Olá eu sou a Vanusa Lopes ✌
-[!Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/vanusa-lopes-8505a4230/)
+## Olá, eu sou a Vanusa e atualmente estou em transição de carreira para a área de Análise e Desenvolvimento de Sistemas.
 
-## Tecnologias que estou estudando e usando no meu dia
-
-
-
+Ao longo da minha trajetória profissional, desenvolvi habilidades analíticas, pensamento crítico e capacidade de resolução de problemas, que agora estou aplicando no mundo da tecnologia.
+Sou apaixonada pelos desafios da área, estou sempre buscando aprender e aberta para novas oportunidades.
+Tecnologias que estou estudando: 👩🏽‍💻
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&
@@ -25,7 +23,6 @@ MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
 
 
 
-Apaixonada por tecnologia.👩🏽‍💻
 
 
 
